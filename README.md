@@ -5,7 +5,7 @@ macOS Catalina for Asus B450M-A (OpenCore)
 	<img src="https://1.bp.blogspot.com/-RXBpLUCaboc/X5gSK67nXdI/AAAAAAAAEpw/y30C5Hsi8pkgZ0A9Cygo3aITRakPH8HEQCLcBGAsYHQ/s0/Screenshot%2B2020-10-27%2Bat%2B13.18.37.png"/>
 </p>
 
-Tested with macOS 11.0.1 with OpenCore 0.6.3
+Tested with macOS High Sierra 10.13.6 with OpenCore 0.6.3
 
 ## System specification
 
