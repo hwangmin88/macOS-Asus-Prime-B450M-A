@@ -1,5 +1,5 @@
 # macOS-B450M-A
-macOS Catalina for Asus B450M-A (OpenCore)
+macOS High Sierra for Asus Prime B450M-A (OpenCore)
 
 <p align="center">
 	<img src="https://1.bp.blogspot.com/-RXBpLUCaboc/X5gSK67nXdI/AAAAAAAAEpw/y30C5Hsi8pkgZ0A9Cygo3aITRakPH8HEQCLcBGAsYHQ/s0/Screenshot%2B2020-10-27%2Bat%2B13.18.37.png"/>
@@ -11,7 +11,7 @@ Tested with macOS High Sierra 10.13.6 with OpenCore 0.6.3
 
 * List of all components https://www.amazon.it/hz/wishlist/ls/2SRQ3XKJYXCBU/
 
-* **Motherboard:** ASUS B450M-A
+* **Motherboard:** ASUS PRIME B450M-A
 	* Network: Realtek 8111H
 	* Audio: Realtek ALC887
 
